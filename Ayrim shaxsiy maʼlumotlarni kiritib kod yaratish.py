@@ -1,3 +1,4 @@
+#Created by Murodbek Tuychiyev
 ism = 'Murodbek'  #Ismim
 familiya = 'Tuychiyev'   #Familiyam
 yosh = '15'   #Yoshim
