@@ -1,3 +1,4 @@
+#Created by Murodbek Tuychiyev
 #Bu kod orqali esa, faqat matnning birinchi harfini katta harf bilan yozamiz
 carname = '🚘 damas'
 additionalfeature = 'deluxe'
